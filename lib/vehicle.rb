@@ -1,12 +1,11 @@
 class Location 
   attr_accessor @name 
  
-    def initialize(name)
-    @name = name 
-    end 
+    initialize(name)
 
-  
-    def 
+    @name = name 
+
+    end 
 
 
 
